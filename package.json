@@ -82,7 +82,7 @@
     "webpack": "^3.2.0"
   },
   "dependencies": {
-    "@handsontable/formulajs": "jandom/formula.js#csp-violation-fix",
+    "@handsontable/formulajs": "github:jandom/formula.js#csp-violation-fix",
     "tiny-emitter": "^2.0.1"
   },
   "jest": {
